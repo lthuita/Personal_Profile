@@ -2,17 +2,23 @@ img {
   float: left;
 }
 .header {
-  width: 50%;
-  float: right;
+  width: 80%;
+  height: 20%;
+  float: left;
   background-color: cream;
-  height: 50%;
 }
 .alignment {
-  width: 400px
+  width: 30%;
+  float: right;
+  background-color: blue;
+}
+.alignment2 {
+  width: 60%;
   float: left;
+  background-color: green;
 }
 .likes {
-  width: 30%;
+  width: 40%;
   float: right;
   background-color: yellow;
 }
