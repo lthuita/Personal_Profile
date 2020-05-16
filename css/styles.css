@@ -7,3 +7,7 @@ img {
   background-color: cream;
   height: 50%;
 }
+.alignment {
+  width: 400px
+  float: left;
+}
