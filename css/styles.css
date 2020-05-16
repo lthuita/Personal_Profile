@@ -1,3 +1,9 @@
 img {
   float: left;
 }
+.header {
+  width: 50%;
+  float: right;
+  background-color: cream;
+  height: 50%;
+}
