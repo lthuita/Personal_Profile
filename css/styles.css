@@ -9,10 +9,9 @@ img {
   width: auto;
 }
 .header {
-  width: 80%;
-  height: 20%;
+  width: 90%;
   float: left;
-  background-color: cream;
+  background-color: crimson;
 }
 .alignment {
   width: 30%;
