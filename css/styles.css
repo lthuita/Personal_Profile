@@ -40,3 +40,9 @@ img {
   text-align: left;
   width: auto;
 }
+
+h5 {
+  font-style: oblique;
+  font-size: 12px;
+  font-size: 1em;
+}
