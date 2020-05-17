@@ -22,3 +22,9 @@ img {
   float: right;
   background-color: yellow;
 }
+linkedin {
+  font-style: italic;
+  font-family: fantasy;
+  color: blue;
+  text-align: center;
+}
