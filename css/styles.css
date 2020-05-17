@@ -1,3 +1,11 @@
+.underlined{
+  text-align: center;
+  color: inherit;
+  text-underline-position: below;
+  text-emphasis-color: orange;
+}
+
+
 img {
   float: left;
 }
