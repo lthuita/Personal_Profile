@@ -34,3 +34,8 @@ img {
   color: blue;
   text-align: center;
 }
+
+.dev {
+  text-align: left;
+  width: auto;
+}
